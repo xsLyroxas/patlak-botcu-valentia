@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Discord+V14+PM2+Bots+%23By+Be%C5%9F)](#)
-<h3>⚠️ Altyapıda Hata Alıyorsanız DM Yazmayın Söverim, Hata İçin Luppux'a Girin Ticket Açın.⚠️</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Patlak+Botcu+Valentia)](https://git.io/typing-svg)<h3>⚠️ Altyapıda Hata Alıyorsanız DM Yazmayın Söverim, Hata İçin Luppux'a Girin Ticket Açın.⚠️</h3>
 <br> </br>
 <br> </br>
 <h2>🟢 20.06.2023 - Discord'daki Yeni Tag Sistemine Göre Düzenlenmiştir.</h2>
