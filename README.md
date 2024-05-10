@@ -25,8 +25,7 @@
 
 <h1 id="zort">Aşşağıdaki sallıycam fotolara iyi bakın buralarda bi çakma kodir var/h1>
 
-<img  src="[[[https://cdn.discordapp.com/attachments/950167988127006821/1090923072644722739/2023-03-30_11-49-54.png](https://media.discordapp.net/attachments/1236315839666458634/1238584045764481044/Screenshot_20240510_231041.jpg?ex=663fd0c8&is=663e7f48&hm=ed68ee1a58dbe1fca098febf721fcb9fedb2482b4f08741fd5a2026f80edf247&=&format=webp&width=742&height=600)]
-
+<img  src="https://media.discordapp.net/attachments/1229502365149822999/1238602232887377930/Screenshot_20240510_231041.png?ex=663fe1b8&is=663e9038&hm=8802e4b94575d5aed7eb466236604e83c8479bbd06d5dbd252474c38e98e6b09&=&format=webp&quality=lossless&width=541&height=437">
  
 
 
