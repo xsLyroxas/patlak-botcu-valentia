@@ -4,9 +4,7 @@
 <br> </br>
 <a href="#zort">[ 🤓 ] Çakma Coderları Görmek İçin Tıkla!</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=30&pause=1000&color=F70909&repeat=false&width=435&lines=%E2%9D%93+Kurulum+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=30&pause=1000&color=F700E5&repeat=false&width=435&lines=%F0%9F%96%BC%EF%B8%8F+G%C3%B6rseller)](#)
 
 
 
